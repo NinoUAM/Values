@@ -1,0 +1,40 @@
+{
+  "total_by_region": {
+    "A Coruña": 6819967.38, "Ain": 1596269.016, "Aisne": 621311.705, "Albacete":1017742.848, "Alicante":3295320.18, "Allier": 535441.347,
+    "Almería": 3164145.573, "Alpes-Maritimes": 1294102.018, "Alpes-de-Haute-Provence": 146853.375, "Ardennes": 435313.261, "Ardèche": 504011.042
+    "Ariège": 195675.859, "Asturias": 1434719.456, "Aube": 547106.318, "Aude": 2208835.578, "Aveyron": 547745.459, "Badajoz": 879504.64, 
+    "Barcelona": 41343500.194, "Bas-Rhin": 1145243.165, "Bouches-du-Rhône": 6201630.433, "Burgos": 2599279.401, "Calvados": 966056.099, 
+    "Cantabria": 2007096.227, "Cantal": 140049.568, "Castelló": 3963380.652, "Charente": 1269682.125, "Charente-Maritime": 1523100.023, "Cher": 169460.664,
+    "Ciudad Real": 1155188.75, "Corrèze": 316648.258, "Creuse": 108223.262, "Cuenca": 302504.374, "Cáceres": 590661.265, "Cádiz": 1822105.39, 
+    "Córdoba": 1116535.724, "Côte-d'Or": 1736895.025, "Côtes-d'Armor": 584898.468, "Deux-Sèvres": 1154940.602, "Dordogne": 813398.104, "Doubs":2297103.972,
+    "Drôme": 1601238.153, "Essone": 57558.577, "Eure": 202481.828, "Eure-et-Loir": 627111.145, "Finistère": 577912.363, "Gard": 1880218.285, 
+    "Gers": 440803.558, "Girona": 6867419.481, "Gironde": 5908364.282, "Granada": 612966.647, "Guadalajara": 564823.785, "Guipúzcoa": 6447989.502, 
+    "Haut-Rhin": 1214841.377, "Haute-Garonne": 7178275.698, "Haute-Loire": 335254.193, "Haute-Marne": 228746.914, "Haute-Savoie": 509599.11, 
+    "Haute-Saône": 950300.554, "Haute-Vienne": 748285.444, "Hautes-Alpes": 420575.761, "Hautes-Pyrénées": 336946.892, "Hauts-de-Seine": 889612.609,
+    "Huelva": 610408.936, "Huesca": 829143.248, "Hérault": 5538393.527, "Ille-et-Vilaine": 1141882.211, "Indre": 759726.862, "Indre-et-Loire": 1694941.228,
+    "Isère": 3452244.257, "Jaén": 343377.887, "Jura": 215657.956, "LA Rioja": 2288629.861, "Landes": 6315182.732, "León": 1046685.625, "Lleida": 1659811.06,
+    "Loir-et-Cher": 781119.931, "Loire": 841928.615, "Loire-Atlantique": 426503.527, "Loiret": 2200199.88, "Lot": 308455.69, "Lot-et-Garonne":1219848.058,
+    "Lozère": 51017.69, "Lugo": 589634.147, "Madrid": 15194141.243, "Maine-et-Loire": 1521200.369, "Manche": 691302.855, "Marne": 660292.143, 
+    "Mayenne": 721034.746, "Meurthe-et-Moselle": 1997980.653, "Meuse": 0.00; "Morbihan": 665051.635, "Moselle": 1644376.045, "Murcia": 4439111.432,
+    "Málaga": 1533806.093, "Navarra": 8183181.631, "Nièvre": 150653.942, "Nord": 3913254.944, "Oise": 1978479.215, "Orne": 297970.229, 
+    "Ourense": 851800.633, "Palencia": 513085.609, "Paris": 4767635.122, "Pas-de-Calais": 2172118.663, "Pontevedra": 2511290.222, 
+    "Puy-de-Dôme": 1464264.936, "Pyrénées-Atlantiques": 9128552.828, "Pyrénées-Orientales": 31884370.621, "Rhône": 5710537.022, "Salamanca": 932435.672,
+    "Sarthe": 882379.688, "Savoie": 316858.023, "Saône-et-Loire": 988928.121, "Segovia": 428327.968, "Seine-Maritime": 2508998.172, 
+    "Seine-Saint-Denis": 1792968.745, "Seine-et-Marne": 3098844.731, "Sevilla": 3105089.599, "Somme": 771335.542, "Soria": 257702.183, "Tarn": 1236471.691,
+    "Tarn-et-Garonne": 1038723.321, "Tarragona": 6934138.347, "Territoire de Belfort": 81447.095, "Teruel": 291824.213, "Toledo": 977768.176, 
+    "Val-d'Oise": 2257226.55, "Val-de-Marne": 1776787.745, "Valladolid": 4982105.84, "València":13130046.408, "Var": 1600670.63, "Vaucluse":3063895.78,
+    "Vendée": 1055308.905, "Vienne": 1214661.381, "Vizcaya": 6538464.72, "Vosges": 30761.787, "Yonne": 595729.929, "Yvelines": 3023101.377, 
+    "Zamora": 246842.384, "Zaragoza": 4682719.23, "Álava": 3657313.839, "Ávila": 55661.155
+  },
+  "total_by_goods_type": {
+    "Abonos": 4360665.88, "Aceites": 5807402.985, "Animales vivos": 9495219.494, "Bebidas": 3010992.712, "Carbones": 2970279.94, 
+    "Cementos y calizas": 1798809.812, "Cereales": 4747721.385, "Combustibles líquidos": 7897127.422, "Cuero y calzado" : 5620692.842, 
+    "Madera y corcho": 4260628.092, "Maderas": 5249272.715, "Maquinaria, aparatos y motores eléctricos": 3886021.12, 
+    "Maquinaria, aparatos y motores no eléctricos, tractores, maquinaria y material agrícola": 11409895.242, "Material de transporte": 4844519.116,
+    "Materiales de construcción": 6154624.761, "Minerales (CECA)": 6551795.654, "Minerales (no CECA)": 597774.074, 
+    "Muebles y artículos de mobiliario, nuevos. Otros artículos manufacturados n.c.o.p.": 3537561.788, "Papel": 8427111.258, 
+    "Piedras y tierra, sal": 8647831.555, "Plástico y caucho": 6813317.77, "Productos alimenticios elaborados": 6543280.594, 
+    "Productos alimenticios sin elaborar": 9807382.024, "Productos químicos": 10043756.115, "Productos siderúrgicos (CECA)": 11588409.308, 
+    "Productos siderúrgicos (No CECA)": 8361246.347, "Tabaco": 123848.895, "Textil y Confección": 5316146.111, "Vidrio":4946063.817
+  }
+}
